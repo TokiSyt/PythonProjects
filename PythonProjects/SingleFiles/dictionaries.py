@@ -3,7 +3,6 @@
     "age": 20,
     "is_verified": True
 }
-
 customer["name"] = "Toki"
 customer["birthdate"] = "2004/05"
 
