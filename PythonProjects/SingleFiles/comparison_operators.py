@@ -5,6 +5,8 @@ if temperature > 30:
 else:
     print("It is not a hot day")'''
 
+# different is !=
+
 name = input("Choose your name: ")
 
 if len(name) < 3:
