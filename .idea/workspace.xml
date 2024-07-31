@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b60fa92f-92d3-4da7-b73b-3b1bffe2293a" name="Changes" comment="#10 commit - New exercises">
+    <list default="true" id="b60fa92f-92d3-4da7-b73b-3b1bffe2293a" name="Changes" comment="#11 commit - Dict update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,6 +40,7 @@
   }
 }</component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/PythonProjects/SingleFiles/dictionaries.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/PythonProjects/SingleFiles/list_methods.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/PythonProjects/SingleFiles/lists.py" root0="SKIP_INSPECTION" />
   </component>
@@ -71,7 +72,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "settings.editor.selected.configurable": "project.propVCSSupport.CommitDialog"
+    "settings.editor.selected.configurable": "project.propVCSSupport.ChangelistConflict"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -199,7 +200,31 @@
       <option name="project" value="LOCAL" />
       <updated>1722444100894</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="#11 commit - New exercises">
+      <option name="closed" value="true" />
+      <created>1722448986805</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1722448986805</updated>
+    </task>
+    <task id="LOCAL-00015" summary="#11 commit - Dict update">
+      <option name="closed" value="true" />
+      <created>1722449232460</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1722449232460</updated>
+    </task>
+    <task id="LOCAL-00016" summary="#11 commit - Dict update">
+      <option name="closed" value="true" />
+      <created>1722449377644</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1722449377644</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -225,6 +250,8 @@
     <MESSAGE value="#9 commit" />
     <MESSAGE value="#9 commit - New car game commands &amp; comparison_operators update" />
     <MESSAGE value="#10 commit - New exercises" />
-    <option name="LAST_COMMIT_MESSAGE" value="#10 commit - New exercises" />
+    <MESSAGE value="#11 commit - New exercises" />
+    <MESSAGE value="#11 commit - Dict update" />
+    <option name="LAST_COMMIT_MESSAGE" value="#11 commit - Dict update" />
   </component>
 </project>
