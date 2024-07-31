@@ -22,7 +22,8 @@ converter = {
     "5": "Five",
     "6": "Six",
     "7": "Seven",
-    "8": "Eight"
+    "8": "Eight",
+    "9": "Nine"
 }
 
 for number in numbers_requested:
