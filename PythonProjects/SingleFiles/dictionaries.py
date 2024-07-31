@@ -14,6 +14,7 @@ numbers_requested = input('Numbers: ')
 result = ''
 
 converter = {
+    "0": "Zero",
     "1": "One",
     "2": "Two",
     "3": "Three",
@@ -21,8 +22,7 @@ converter = {
     "5": "Five",
     "6": "Six",
     "7": "Seven",
-    "8": "Eight",
-    "9": "Nine"
+    "8": "Eight"
 }
 
 for number in numbers_requested:
