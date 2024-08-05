@@ -9,5 +9,5 @@ class Person:
 toki = Person("Toki Turcek")
 toki.talk()
 
-bob = Person("Bob Makaia")
+bob = Person("Bob Kurwa")
 bob.talk()
